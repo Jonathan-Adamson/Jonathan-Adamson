@@ -4,7 +4,8 @@
 
 ## About Me
 
-I'm currently a student-athlete at Denison University, where I am pursuing a major in Data Analytics with a concentration in Economics. My academic journey, coupled with my involvement in various projects, has provided me with a solid foundation in data analytics.
+I'm currently a senior at Denison University, where I am pursuing a major in Data Analytics with a concentration in Economics. My academic journey, coupled with my involvement in 
+internships and various projects have provided me with a solid foundation in data analytics.
 
 ---
 
